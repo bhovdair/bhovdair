@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhovdair
-- 👀 I’m interested coding, sales, managing, people
-- 🌱 I’m a fullstack developer but proficient in back-end development
+- 👀 I’m interested in coding, sales, managing, and people
+- 🌱 I’m a product engineer but proficient in back-end development
 - 💞️ I’m looking for any collaboration works ...
 - 📫 reach me at muhammadbhovdair@gmail.com
